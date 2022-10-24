@@ -1,5 +1,5 @@
 import os
-from clinica import Clinica
+from Clinica import Clinica
 
 def main():
     c = Clinica()
